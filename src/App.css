@@ -68,7 +68,7 @@ button {
 }
 
 .logo {
-  background-image: url("./happy_diwali.gif");
+  background-image: url('./happy_diwali.gif');
   background-repeat: no-repeat;
   width: 315px;
   height: 284px;
