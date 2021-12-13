@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/diwali-hackathon/static/css/main.8b162eef.chunk.css",
-    "main.js": "/diwali-hackathon/static/js/main.9abc1bd2.chunk.js",
-    "main.js.map": "/diwali-hackathon/static/js/main.9abc1bd2.chunk.js.map",
+    "main.css": "/diwali-hackathon/static/css/main.4b779e86.chunk.css",
+    "main.js": "/diwali-hackathon/static/js/main.2663e18f.chunk.js",
+    "main.js.map": "/diwali-hackathon/static/js/main.2663e18f.chunk.js.map",
     "runtime-main.js": "/diwali-hackathon/static/js/runtime-main.98d2080e.js",
     "runtime-main.js.map": "/diwali-hackathon/static/js/runtime-main.98d2080e.js.map",
     "static/js/2.3cd6d100.chunk.js": "/diwali-hackathon/static/js/2.3cd6d100.chunk.js",
     "static/js/2.3cd6d100.chunk.js.map": "/diwali-hackathon/static/js/2.3cd6d100.chunk.js.map",
     "index.html": "/diwali-hackathon/index.html",
-    "static/css/main.8b162eef.chunk.css.map": "/diwali-hackathon/static/css/main.8b162eef.chunk.css.map",
+    "static/css/main.4b779e86.chunk.css.map": "/diwali-hackathon/static/css/main.4b779e86.chunk.css.map",
     "static/js/2.3cd6d100.chunk.js.LICENSE.txt": "/diwali-hackathon/static/js/2.3cd6d100.chunk.js.LICENSE.txt",
     "static/media/App.css": "/diwali-hackathon/static/media/happy_diwali.06a553ad.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.98d2080e.js",
     "static/js/2.3cd6d100.chunk.js",
-    "static/css/main.8b162eef.chunk.css",
-    "static/js/main.9abc1bd2.chunk.js"
+    "static/css/main.4b779e86.chunk.css",
+    "static/js/main.2663e18f.chunk.js"
   ]
 }
