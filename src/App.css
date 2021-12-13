@@ -1,3 +1,23 @@
 body {
-	text-align: center;
+  text-align: center;
+  background-color: #22020e;
+}
+
+.header_box {
+  width: 100%;
+  height: 20vh;
+  background-color: #3e0815;
+  margin-top: 80px;
+}
+
+.header_box_logo {
+  background-image: url("./Images/happy_diwali.gif");
+  background-repeat: no-repeat;
+  width: 315px;
+  height: 285px;
+  margin-top: 0;
+  display: flex;
+  justify-content: center;
+  size: cover;
+  position: absolute
 }
