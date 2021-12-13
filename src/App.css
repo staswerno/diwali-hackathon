@@ -14,7 +14,7 @@ body {
 }
 
 button {
-	background-color: #f3f3f3);
+	background-color: #f3f3f3;
 	width: 150px;
 	margin: auto;
 	margin-top: 50px;
@@ -37,7 +37,7 @@ button {
 	margin: auto;
 
 	width: 600px;
-  height: 400px;
+	height: 400px;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
