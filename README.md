@@ -1,1 +1,1 @@
-# Group 6 WBS HAckathon Project
+# Group 6 WBS Hackathon Project

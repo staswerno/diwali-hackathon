@@ -1,3 +1,55 @@
+* {
+	font-family: Laila;
+	color: white;
+}
+
+.spHighlight {
+	margin: auto;
+	padding: 20px;
+}
+
 body {
 	text-align: center;
+	background-color: #121212;
+}
+
+button {
+	background-color: #f3f3f3);
+	width: 150px;
+	margin: auto;
+	margin-top: 50px;
+	color: black;
+	font-weight: bold;
+}
+
+.containerAll {
+	display: grid;
+	align-content: center;
+	justify-content: center;
+	margin: auto;
+	width: 450px;
+}
+
+.bgGlobal {
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	margin: auto;
+
+	width: 600px;
+  height: 400px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bgChooser1 {
+	background-image: url("diwalitemp1.jpeg");
+}
+
+.bgChooser2 {
+	background-image: url("diwalitemp2.jpeg");
+}
+
+.bgChooser3 {
+	background-image: url("diwalitemp3.jpeg");
 }
