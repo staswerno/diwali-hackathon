@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/diwali-hackathon/static/css/main.a1ee82f2.chunk.css",
+    "main.css": "/diwali-hackathon/static/css/main.f2029ebb.chunk.css",
     "main.js": "/diwali-hackathon/static/js/main.560575b4.chunk.js",
     "main.js.map": "/diwali-hackathon/static/js/main.560575b4.chunk.js.map",
     "runtime-main.js": "/diwali-hackathon/static/js/runtime-main.98d2080e.js",
@@ -8,14 +8,14 @@
     "static/js/2.3cd6d100.chunk.js": "/diwali-hackathon/static/js/2.3cd6d100.chunk.js",
     "static/js/2.3cd6d100.chunk.js.map": "/diwali-hackathon/static/js/2.3cd6d100.chunk.js.map",
     "index.html": "/diwali-hackathon/index.html",
-    "static/css/main.a1ee82f2.chunk.css.map": "/diwali-hackathon/static/css/main.a1ee82f2.chunk.css.map",
+    "static/css/main.f2029ebb.chunk.css.map": "/diwali-hackathon/static/css/main.f2029ebb.chunk.css.map",
     "static/js/2.3cd6d100.chunk.js.LICENSE.txt": "/diwali-hackathon/static/js/2.3cd6d100.chunk.js.LICENSE.txt",
     "static/media/App.css": "/diwali-hackathon/static/media/diwalitemp3.0bc2446f.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.98d2080e.js",
     "static/js/2.3cd6d100.chunk.js",
-    "static/css/main.a1ee82f2.chunk.css",
+    "static/css/main.f2029ebb.chunk.css",
     "static/js/main.560575b4.chunk.js"
   ]
 }
