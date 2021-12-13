@@ -1,0 +1,8 @@
+{
+	"short_name": "Diwali Hack",
+	"name": "Diwali Hackathon Project",
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
+}
