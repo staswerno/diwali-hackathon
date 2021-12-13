@@ -2,6 +2,7 @@ import "./App.css";
 import Generator from "./Generator";
 import "./Firework.css";
 
+
 function App() {
   return (
     <div className="App">
@@ -31,6 +32,11 @@ function App() {
         <main>
           <Generator />
         </main>
+
+		<footer>
+			
+			
+		</footer>
       </div>
     </div>
   );
