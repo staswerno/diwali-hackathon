@@ -1,6 +1,7 @@
 import "./App.css";
 import Generator from "./Generator";
 import "./Firework.css";
+import DiwaliInformation from './DiwaliInformation';
 
 
 function App() {
@@ -31,10 +32,12 @@ function App() {
         </header>
         <main>
           <Generator />
+
+		  <DiwaliInformation />
         </main>
 
 		<footer>
-			
+			<h4>@Group 6 WBS Hackathon Project</h4>
 			
 		</footer>
       </div>

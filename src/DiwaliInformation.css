@@ -1,0 +1,23 @@
+.title h1 {
+    margin-top: 40px;
+}
+
+.wrapper_content_box {
+  width: 50%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  text-align: justify;
+  align-items: center;
+  background-color: #2d0412;
+  opacity: 3;
+  padding: 40px;
+  border-radius: 4px;
+}
+
+.information_box {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  
+}

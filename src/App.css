@@ -103,4 +103,13 @@ footer {
   width: 100%;
   height: 15vh;
   margin-top: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
+footer h4 {
+  color: rgb(255, 193, 193);
+}
+
+
